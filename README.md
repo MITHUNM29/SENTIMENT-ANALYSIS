@@ -31,4 +31,6 @@ This project highlights the end-to-end workflow of an NLP pipeline: from raw tex
 
 
 output
+![Image](https://github.com/user-attachments/assets/e6e46554-7010-416f-a2d0-e194ad83d5bd)
+![Image](https://github.com/user-attachments/assets/25baf679-c779-4069-bd73-07b86129d89d)
 
